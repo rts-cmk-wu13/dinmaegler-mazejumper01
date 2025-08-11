@@ -22,6 +22,7 @@ export default function Footer() {
                                 flex items-center justify-center
                                 " src="../src/assets/call 1.svg" alt="#" />
                                 </figure>
+                                
                                 <p className="text-[0.75rem] text-[#7B7B7B] flex items-end">Ring til os</p>
                                 <p className="col-start-2">+45 7070 4000</p>
                             </li>
