@@ -98,7 +98,7 @@ export default function HomeHouses() {
         </div>
            
 
-        <Link className="h-[3.87rem] mb-[2.5rem] " to="/boliger">
+        <Link className="h-[3.87rem]  " to="/boliger">
             <button className="w-[13.4rem] h-[inherit] cursor-pointer bg-[#162A41] text-white flex items-center justify-center ">
                 Se alle boliger
             </button>
