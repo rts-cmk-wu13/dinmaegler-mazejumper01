@@ -2,7 +2,7 @@ import { createBrowserRouter} from "react-router";
 import Layout from "./Layout";
 
 import Home from "./pages/Home";
-import Shop from "./pages/Shop";
+import Boliger from "./pages/Boliger";
 import NotFound from "./pages/Notfound";
 
 const router = createBrowserRouter([
@@ -16,8 +16,8 @@ const router = createBrowserRouter([
             },
             
             {
-                path: "shop",
-                element: <Shop />,
+                path: "Boliger",
+                element: <Boliger />,
             },
 
             {
