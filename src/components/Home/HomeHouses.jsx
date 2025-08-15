@@ -43,7 +43,7 @@ export default function HomeHouses() {
                 src={
                     house.images && house.images.length > 0
                     ? house.images[0].formats?.thumbnail?.url || house.images[0].url
-                    : "https://via.placeholder.com/1400x933?text=No+Image"
+                    : "https://placehold.co/400"
                 }
 
                 alt={house.adress1}

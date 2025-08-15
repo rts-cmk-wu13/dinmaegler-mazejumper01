@@ -35,7 +35,7 @@ export default function Header() {
                             <NavLink to="/" className="hover:text-[#152941]">Boliger til salg</NavLink>
                         </li>
                         <li>
-                            <NavLink to="/" className="hover:text-[#152941]">Mæglere</NavLink>
+                            <NavLink to="/Agents" className="hover:text-[#152941]">Mæglere</NavLink>
                         </li>
                         <li>
                             <NavLink to="/shop" className="hover:text-[#152941]">Mine favoritter</NavLink>

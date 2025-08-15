@@ -1,3 +1,4 @@
+import HomeAgents from '../components/Home/HomeAgents';
 import HomeHero from '../components/Home/HomeHero';
 import HomeHouses from '../components/Home/HomeHouses';
 import HomeInfo from '../components/Home/HomeInfo';
@@ -11,6 +12,7 @@ export default function home() {
         <HomeInfo />
         <HomeHouses />
         <HomeNyhed />
+        <HomeAgents />
 
         </>
     )
