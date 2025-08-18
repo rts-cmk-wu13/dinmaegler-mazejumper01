@@ -70,7 +70,7 @@ export default function HomeAgents() {
         </div>
            
 
-        <Link className="h-[3.87rem]  " to="/Agents">
+        <Link className="h-[3.87rem] mb-[2.5rem] " to="/Agents">
             <button className="w-[13.4rem] h-[inherit] cursor-pointer bg-[#162A41] text-white flex items-center justify-center ">
                 Se alle mæglere
             </button>
