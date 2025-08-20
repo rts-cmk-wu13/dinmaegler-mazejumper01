@@ -4,7 +4,7 @@ import Layout from "./Layout";
 import Home from "./pages/Home";
 import Boliger from "./pages/Boliger";
 import NotFound from "./pages/Notfound";
-import Agents from "./pages/Agents";
+import Agent from "./pages/Agent";
 
 const router = createBrowserRouter([
     {
@@ -22,8 +22,8 @@ const router = createBrowserRouter([
             },
 
             {
-                path: "Agents",
-                element: <Agents />,
+                path: "Agent",
+                element: <Agent />,
             },
 
             {

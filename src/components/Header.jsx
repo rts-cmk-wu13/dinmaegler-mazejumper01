@@ -32,10 +32,10 @@ export default function Header() {
                     {/* Nav Links */}
                     <ul className="flex space-x-8 text-[#2b2b2b] font-medium">
                         <li>
-                            <NavLink to="/" className="hover:text-[#152941]">Boliger til salg</NavLink>
+                            <NavLink to="/Boliger" className="hover:text-[#152941]">Boliger til salg</NavLink>
                         </li>
                         <li>
-                            <NavLink to="/Agents" className="hover:text-[#152941]">Mæglere</NavLink>
+                            <NavLink to="/Agent" className="hover:text-[#152941]">Mæglere</NavLink>
                         </li>
                         <li>
                             <NavLink to="/shop" className="hover:text-[#152941]">Mine favoritter</NavLink>
